@@ -1,0 +1,6 @@
+C:\Users\charles\Desktop\TstSvC\TstSvC\bin\Debug\TstSvC.exe
+C:\Users\charles\Desktop\TstSvC\TstSvC\bin\Debug\TstSvC.pdb
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Debug\TstSvC.exe
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Debug\TstSvC.pdb
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Debug\TstSvC.ProjectInstaller.resources
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Debug\TstSvC.csproj.GenerateResource.Cache

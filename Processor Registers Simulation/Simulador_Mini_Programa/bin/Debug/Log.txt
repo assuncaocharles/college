@@ -1,0 +1,286 @@
+
+===Memória===
+
+
+ Endereço: 0 - Conteúdo: 0
+
+ Endereço: 1 - Conteúdo: 0
+
+ Endereço: 2 - Conteúdo: 0
+
+ Endereço: 3 - Conteúdo: 0
+
+ Endereço: 4 - Conteúdo: 0
+
+ Endereço: 5 - Conteúdo: 0
+
+ Endereço: 6 - Conteúdo: 0
+
+ Endereço: 7 - Conteúdo: 0
+
+ Endereço: 8 - Conteúdo: 0
+
+ Endereço: 9 - Conteúdo: 0
+
+ Endereço: 10 - Conteúdo: 0
+
+ Endereço: 11 - Conteúdo: 100
+
+ Endereço: 12 - Conteúdo: 0
+
+ Endereço: 13 - Conteúdo: 0
+
+ Endereço: 14 - Conteúdo: 0
+
+ Endereço: 15 - Conteúdo: 0
+
+ Endereço: 16 - Conteúdo: 0
+
+ Endereço: 17 - Conteúdo: 0
+
+ Endereço: 18 - Conteúdo: 0
+
+ Endereço: 19 - Conteúdo: 0
+
+ Endereço: 20 - Conteúdo: 0
+
+ Endereço: 21 - Conteúdo: 0
+
+ Endereço: 22 - Conteúdo: 0
+
+ Endereço: 23 - Conteúdo: 0
+
+ Endereço: 24 - Conteúdo: 0
+
+ Endereço: 25 - Conteúdo: 0
+
+ Endereço: 26 - Conteúdo: 0
+
+ Endereço: 27 - Conteúdo: 0
+
+ Endereço: 28 - Conteúdo: 0
+
+ Endereço: 29 - Conteúdo: 0
+
+ Endereço: 30 - Conteúdo: 0
+
+ Endereço: 31 - Conteúdo: 0
+
+ Endereço: 32 - Conteúdo: 0
+
+ Endereço: 33 - Conteúdo: 0
+
+ Endereço: 34 - Conteúdo: 0
+
+ Endereço: 35 - Conteúdo: 0
+
+ Endereço: 36 - Conteúdo: 0
+
+ Endereço: 37 - Conteúdo: 0
+
+ Endereço: 38 - Conteúdo: 0
+
+ Endereço: 39 - Conteúdo: 0
+
+ Endereço: 40 - Conteúdo: 0
+
+ Endereço: 41 - Conteúdo: 0
+
+ Endereço: 42 - Conteúdo: 0
+
+ Endereço: 43 - Conteúdo: 0
+
+ Endereço: 44 - Conteúdo: 0
+
+ Endereço: 45 - Conteúdo: 0
+
+ Endereço: 46 - Conteúdo: 0
+
+ Endereço: 47 - Conteúdo: 0
+
+ Endereço: 48 - Conteúdo: 0
+
+ Endereço: 49 - Conteúdo: 0
+
+ Endereço: 50 - Conteúdo: 0
+
+ Endereço: 51 - Conteúdo: 0
+
+ Endereço: 52 - Conteúdo: 0
+
+ Endereço: 53 - Conteúdo: 0
+
+ Endereço: 54 - Conteúdo: 0
+
+ Endereço: 55 - Conteúdo: 0
+
+ Endereço: 56 - Conteúdo: 0
+
+ Endereço: 57 - Conteúdo: 0
+
+ Endereço: 58 - Conteúdo: 0
+
+ Endereço: 59 - Conteúdo: 0
+
+ Endereço: 60 - Conteúdo: 0
+
+ Endereço: 61 - Conteúdo: 0
+
+ Endereço: 62 - Conteúdo: 0
+
+ Endereço: 63 - Conteúdo: 0
+
+ Endereço: 64 - Conteúdo: 0
+
+ Endereço: 65 - Conteúdo: 0
+
+ Endereço: 66 - Conteúdo: 0
+
+ Endereço: 67 - Conteúdo: 0
+
+ Endereço: 68 - Conteúdo: 0
+
+ Endereço: 69 - Conteúdo: 0
+
+ Endereço: 70 - Conteúdo: 0
+
+ Endereço: 71 - Conteúdo: 0
+
+ Endereço: 72 - Conteúdo: 0
+
+ Endereço: 73 - Conteúdo: 0
+
+ Endereço: 74 - Conteúdo: 0
+
+ Endereço: 75 - Conteúdo: 0
+
+ Endereço: 76 - Conteúdo: 0
+
+ Endereço: 77 - Conteúdo: 355
+
+ Endereço: 78 - Conteúdo: 0
+
+ Endereço: 79 - Conteúdo: 0
+
+ Endereço: 80 - Conteúdo: 0
+
+ Endereço: 81 - Conteúdo: 0
+
+ Endereço: 82 - Conteúdo: 0
+
+ Endereço: 83 - Conteúdo: 0
+
+ Endereço: 84 - Conteúdo: 0
+
+ Endereço: 85 - Conteúdo: 0
+
+ Endereço: 86 - Conteúdo: 0
+
+ Endereço: 87 - Conteúdo: 0
+
+ Endereço: 88 - Conteúdo: 755
+
+ Endereço: 89 - Conteúdo: 0
+
+ Endereço: 90 - Conteúdo: 0
+
+ Endereço: 91 - Conteúdo: 0
+
+ Endereço: 92 - Conteúdo: 0
+
+ Endereço: 93 - Conteúdo: 0
+
+ Endereço: 94 - Conteúdo: 0
+
+ Endereço: 95 - Conteúdo: 0
+
+ Endereço: 96 - Conteúdo: 0
+
+ Endereço: 97 - Conteúdo: 0
+
+ Endereço: 98 - Conteúdo: 0
+
+ Endereço: 99 - Conteúdo: 0
+
+
+===Registradores=== 
+
+
+R1 - Conteúdo: 0
+
+R2 - Conteúdo: 0
+
+R3 - Conteúdo: 0
+
+R4 - Conteúdo: 0
+
+R5 - Conteúdo: 0
+
+R6 - Conteúdo: 355
+
+R7 - Conteúdo: 555
+
+R8 - Conteúdo: 755
+
+R9 - Conteúdo: 0
+
+R10 - Conteúdo: 0
+
+
+Valor de H: 0
+
+Passos:
+
+
+Carrega 77 para MAR 
+Carrega o valor 355 para MDR 
+Carrega o valor 355 de MDR para a memória[77]
+
+
+
+
+Carrega 88 para MAR 
+Carrega o valor 755 para MDR 
+Carrega o valor 755 de MDR para a memória[88]
+
+
+
+
+Carrega 11 para MAR 
+Carrega o valor 100 para MDR 
+Carrega o valor 100 de MDR para a memória[11]
+
+
+
+
+Move o valor 77 para MAR 
+Move o valor 355 da memória[77] para MDR 
+Move o Valor de MDR para o registrador[6]
+
+ 
+
+
+Move o valor 11 para MAR 
+Move o valor 100 da memória[11] para MDR 
+Move o Valor de MDR para o registrador[7]
+
+ 
+
+
+Adiciona o valor 11 em MAR 
+Adiciona o valor 100 em MDR 
+Adiciona o valor de MDR no Registrador 7
+
+
+
+
+Adiciona o valor 355 do registrador[6] para o registrador[7]
+
+
+
+
+Adiciona o valor 88 em MAR 
+Adiciona o valor 755 em MDR 
+Adiciona o valor de MDR no Registrador 8
+
+

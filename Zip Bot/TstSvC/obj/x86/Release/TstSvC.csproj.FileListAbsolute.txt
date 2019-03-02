@@ -1,0 +1,15 @@
+C:\Users\charles\Desktop\TstSvC\TstSvC\bin\Release\TstSvC.exe
+C:\Users\charles\Desktop\TstSvC\TstSvC\bin\Release\TstSvC.pdb
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Release\TstSvC.ProjectInstaller.resources
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Release\TstSvC.csproj.GenerateResource.Cache
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Release\TstSvC.exe
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Release\TstSvC.pdb
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Release\TstSvC.SVCCompactacaoAr.resources
+C:\Users\charles\Desktop\TstSvC\TstSvC\obj\x86\Release\TstSvC.csprojResolveAssemblyReference.cache
+C:\Users\charles\Downloads\TstSvC\TstSvC\obj\x86\Release\TstSvC.exe
+C:\Users\charles\Downloads\TstSvC\TstSvC\obj\x86\Release\TstSvC.pdb
+C:\Users\charles\Downloads\TstSvC\TstSvC\bin\Release\TstSvC.exe
+C:\Users\charles\Downloads\TstSvC\TstSvC\bin\Release\TstSvC.pdb
+C:\Users\charles\Downloads\TstSvC\TstSvC\obj\x86\Release\TstSvC.ProjectInstaller.resources
+C:\Users\charles\Downloads\TstSvC\TstSvC\obj\x86\Release\TstSvC.csproj.GenerateResource.Cache
+C:\Users\charles\Downloads\TstSvC\TstSvC\obj\x86\Release\TstSvC.SVC_Compactar.resources

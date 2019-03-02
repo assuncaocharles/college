@@ -1,0 +1,22 @@
+C:\Users\charles\Desktop\Simulador_Mini_Programa\Simulador_Mini_Programa\bin\Debug\Simulador_Mini_Programa.exe
+C:\Users\charles\Desktop\Simulador_Mini_Programa\Simulador_Mini_Programa\bin\Debug\Simulador_Mini_Programa.pdb
+C:\Users\charles\Desktop\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.exe
+C:\Users\charles\Desktop\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.pdb
+C:\Users\charles\Desktop\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.csprojResolveAssemblyReference.cache
+C:\Users\Grazi\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.exe
+C:\Users\Grazi\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.pdb
+C:\Users\Grazi\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\bin\Debug\Simulador_Mini_Programa.exe
+C:\Users\Grazi\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\bin\Debug\Simulador_Mini_Programa.pdb
+C:\Users\Grazi\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.csprojResolveAssemblyReference.cache
+C:\Users\charles\Desktop\Nova Pasta\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.exe
+C:\Users\charles\Desktop\Nova Pasta\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.pdb
+C:\Users\charles\Desktop\Nova Pasta\Simulador_Mini_Programa\Simulador_Mini_Programa\bin\Debug\Simulador_Mini_Programa.exe
+C:\Users\charles\Desktop\Nova Pasta\Simulador_Mini_Programa\Simulador_Mini_Programa\bin\Debug\Simulador_Mini_Programa.pdb
+C:\Users\charles\Desktop\Nova Pasta\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.csprojResolveAssemblyReference.cache
+C:\Users\charles\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.exe
+C:\Users\charles\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.pdb
+C:\Users\charles\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\bin\Debug\Simulador_Mini_Programa.exe
+C:\Users\charles\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\bin\Debug\Simulador_Mini_Programa.pdb
+C:\Users\charles\Downloads\Simulador_Mini_Programa\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.csprojResolveAssemblyReference.cache
+C:\Users\charles\Desktop\GIT_ALL\All_Projects\Trabalhos_SI\Arquitetura_4ºP\Simulador_Mini_Programa_\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.exe
+C:\Users\charles\Desktop\GIT_ALL\All_Projects\Trabalhos_SI\Arquitetura_4ºP\Simulador_Mini_Programa_\Simulador_Mini_Programa\obj\x86\Debug\Simulador_Mini_Programa.pdb
